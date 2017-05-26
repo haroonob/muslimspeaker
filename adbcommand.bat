@@ -1,0 +1,1 @@
+C:\Users\haroon\AppData\Local\Android\sdk1\platform-tools\adb reverse tcp:8081 tcp:8081

@@ -1,0 +1,4 @@
+export const BASE_PROFILE = 'BASE_PROFILE';
+export const DOWNLOADED_ITEM = 'DOWNLOADED_ITEM';
+export const SYNC_TIME_STAMP='SYNC_TIME_STAMP';
+

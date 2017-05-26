@@ -1,0 +1,9 @@
+export const DOWNLOADED = 'DOWNLOADED';
+export const TRACKS = 'TRACKS';
+export const PROGRESS = 'PROGRESS';
+export const SEARCH = 'SEARCH';
+export const PROFILE = 'PROFILE';
+export const SYNC_COMPLETED = 'SYNC_COMPLETED';
+export const TOGGLE_PLAY ='TOGGLE_PLAY';
+export const TOGGLE_INDEX ='TOGGLE_INDEX';
+export const CATEGORY='CATEGORY';
